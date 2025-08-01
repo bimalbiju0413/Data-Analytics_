@@ -39,11 +39,13 @@ and exported to `Players_all.csv` & `Teams_all.csv`.
 ---
 
 ## 4  Repository Structure
-📁 /               • root
-├─📊 Youth_Scouting_PowerBI.pbix   – interactive BI report
-├─📊 Youth_Scouting_Tableau.twbx   – Tableau workbook (packaged)
-├─📑 Youth_Scouting_Critical_Report.pdf
-├─📑 Youth_Scouting_Appendix.pdf   – full DAX / LOD equations
+Main Root
+├─ Dashboards/ 
+  ├─📊 Youth_Scouting_PowerBI.pbix   – interactive BI report
+  ├─📊 Youth_Scouting_Tableau.twbx   – Tableau workbook (packaged)
+├─📂 Reports/
+  ├─Youth_Scouting_Critical_Report.pdf
+  ├─Youth_Scouting_Appendix.pdf   – full DAX / LOD equations
 ├─📂 Data/
 │   ├─ Players_clean.csv           – 57 010 rows
 │   └─ Teams_clean.csv             – 1 144 rows
@@ -55,8 +57,6 @@ and exported to `Players_all.csv` & `Teams_all.csv`.
    in Tableau Desktop / Reader.  
 2. **Power BI:** click the badge or open `Youth_Scouting_PowerBI.pbix` in  
    Power BI Desktop (Oct-2023 or later).
-
-
 
 Built as CA-2 submission for TU Dublin MSc Computing (Data Analytics):
 module Data Visualisation & Storytelling, Semester 2 2025.
