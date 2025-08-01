@@ -3,7 +3,7 @@
 _FIFA 23 Talent-Pipeline Dashboard in Tableau & Power BI_
 
 [[Tableau Public](https://public.tableau.com/app/profile/bimal.bimal/viz/youthscouting_mancity_tableu/Dashboard2?publish=yes )
-[[Power BI] (https://app.powerbi.com/links/X-omph4xpF?ctid=5d0aa6ea-6620-4863-9e21-9ecb140222bc&pbi_source=linkShare)
+[[Power BI] (https://app.powerbi.com/view?r=eyJrIjoiOGQ1MTFmMTctNzI2MC00OThhLTkwYjAtNWEyYzNkODVhMzBjIiwidCI6IjVkMGFhNmVhLTY2MjAtNDg2My05ZTIxLTllY2IxNDAyMjJiYyIsImMiOjh9)
 
 ## 1  Project Overview
 A dual-build data-visualisation project that explores the *_FIFA 23 Complete Player Dataset*_
